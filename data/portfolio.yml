@@ -1,0 +1,60 @@
+portfolioitems:
+  - title: Work Experience
+    description: 'My professional work experience in the field of Cloud, DevOps and Python automation'
+    portfolioitem:
+      - name: Senior DevOps Engineer
+        image: '/images/Third_Bridge_Logo.jpg'
+        # link: https://www.thirdbridge.com/
+        # linktext: 'Visit Company Website'
+        description: 'Working as a Senior DevOps Engineer at Third Bridge. Responsible for overseeing cloud infrastructure and DevOps processes.'
+        tags:
+          - AWS
+          - DevOps
+          - Automation
+        status: 'Current'
+        start: '2024-01'
+        end: 'Present'
+        authors:
+          - Mumbai, India 🇮🇳
+      - name: DevOps Engineer - IT Analyst
+        image: '/images/TCS_Logo.jpg'
+        # link: https://www.tcs.com/
+        # linktext: 'Visit Company Website'
+        description: 'Worked as a DevOps Engineer. Handled Terraform, DevOps, and numerous other tools to manage cloud infrastructure.'
+        tags:
+          - Terraform
+          - DevOps
+          - AWS
+        status: 'Finished'
+        start: '2021-02'
+        end: '2024-01'
+        authors:
+          - Budapest, Hungary 🇭🇺 and Mumbai, India 🇮🇳
+      - name: Associate DevOps Engineer - IT Analyst
+        image: '/images/TCS_Logo.jpg'
+        # link: https://www.tcs.com/
+        # linktext: 'Visit Company Website'
+        description: 'Served as a Associate DevOps Engineer. Focused on CI/CD pipelines and cloud automation.'
+        tags:
+          - Python
+          - DevOps
+          - Linux
+        status: 'Finished'
+        start: '2020-01'
+        end: '2021-02'
+        authors:
+          - Brazil 🇧🇷 and Australia 🇦🇺
+      - name: Python Developer - System Engineer
+        image: '/images/TCS_Logo.jpg'
+        # link: https://www.tcs.com/
+        # linktext: 'Visit Company Website'
+        description: 'Worked as a Python Developer at Tata Consultancy Services. Specialized in Automation projects and object-oriented programming.'
+        tags:
+          - Python
+          - OOP
+          - Shell Script
+        status: 'Finished'
+        start: '2016-12'
+        end: '2020-01'
+        authors:
+          - Mumbai, India 🇮🇳
